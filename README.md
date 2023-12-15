@@ -1,6 +1,6 @@
 # 💫 About Me:
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯<br>My preferred back-end frameworks: Nodejs <br>My preferred front-end frameworks: ReactJs<br><br>----------------------------------------------------<br>Technologies used in back-end programming:<br><br>❖ Nodejs<br>► ExpressJs<br>❖ MongoDB<br>❖ MySQL<br>❖ jQuery<br>❖ Other technologies: AJAX, XML, JSON, Xampp, <br>► Visual Studio, VS Code<br><br>----------------------------------------------------<br><br>Technologies used in front-end programming:<br>► HTML<br>► CSS<br> TailwindCSS <br>► Javascript<br>TypeScript<br> ► ReactJS<br>► Bootstrap 4.*, 5 <br>► Other technologies: AJAX, JSON, Github, Vs Code, Agile<br>----------------------------------------------------<br><br>Other skills:<br>► Adobe Photoshop, Premiere, Lightroom Classic<br>► Microsoft Office<br>----------------------------------------------------
-
+ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mtfkr.geo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/georgian.fullstack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgian-cristinel-vasile) 
